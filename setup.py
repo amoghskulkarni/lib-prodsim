@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small library for building production line simulations",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/amoghskulkarni/python-example-package",
+    url="https://github.com/amoghskulkarni/lib-prodsim",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
